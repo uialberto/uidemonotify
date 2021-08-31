@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "648717015657",
+    "project_id": "appfarmacorptestui",
+    "storage_bucket": "appfarmacorptestui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648717015657:android:b32b1f39defa6ae9e0a0f8",
+        "android_client_info": {
+          "package_name": "com.lbaigorria.uidemonotify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648717015657-jo598b5lk3i12u9ca9hdv88g6tkb2j0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lbaigorria.uidemonotify",
+            "certificate_hash": "e8f780ff34b09cb5d39ef2bb6c4ae0aafa2d6ada"
+          }
+        },
+        {
+          "client_id": "648717015657-43u7ki3ko845ua14cqelcsinr66kbsil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0T7TvoUkhnSwdRWHeic-MByz-BSMbD0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648717015657-43u7ki3ko845ua14cqelcsinr66kbsil.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
